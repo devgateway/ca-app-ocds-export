@@ -1,0 +1,904 @@
+{
+    "publisher": {
+        "name": "Development Gateway"
+    },
+
+    "uri": "http://contractawards.eu/export/OCDS?year=2013&month=12",
+    "publishingMeta": "2014-09-11",
+    "releases": [{
+        "ocid": "5180-2013",
+        "releaseID": "AT-Linz: Adult and other education services - 8846756",
+        "releaseDate": "2013-12-10",
+        "releaseTag": "awardNotice",
+        "language": "en",
+        "buyer": {
+            "id": {
+                "name": "REPUBLIK ÖSTERREICH VERTRETEN DURCH DAS ARBEITSMARKTSERVICE OBERÖSTERREICH",
+                "uid": 6495873,
+                "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6495873"
+            },
+            "address": {
+                "countryName": "Austria"
+            }
+        },
+        "formation": {
+            "tenderID": "8846756",
+            "notice": {
+                "id": "AT-Linz: Adult and other education services",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8846756",
+                "publishedDate": "2013-01-08"
+            },
+            "itemsToBeProcured": [{
+                "description": "Education and training services",
+                "classificationScheme": "CPV",
+                "classificationID": "80000000",
+                "classificationDescription": "Education and training services"
+            }],
+            "totalValue": {
+                "amount": 0,
+                "currency": "EUR"
+            },
+            "selectionCriteria": "The most economic tender",
+            "numberOfBids": 4
+        },
+        "awards": [{
+            "awardID": "3117282",
+            "notice": {
+                "id": "{title: AT-Linz: Adult and other education services}",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8846756",
+                "publishedDate": "2013-01-08"
+            },
+            "awardDate": "2013-12-10",
+            "awardValue": {
+                "amount": 0,
+                "currency": "EUR"
+            },
+            "suppliers": [{
+                "id": {
+                    "name": "Wirtschaftsförderungsinstitut oö - wifi oö",
+                    "uri": "http://www.contractawards.eu/#!supplier=Wirtschaftsförderungsinstitut oö - wifi oö"
+                },
+                "address": {}
+            }],
+            "itemsAwarded": [{
+                "description": "Education and training services",
+                "classificationScheme": "CPV",
+                "classificationID": "80000000",
+                "classificationDescription": "Education and training services"
+            }]
+        }]
+    }, {
+        "ocid": "5322-2013",
+        "releaseID": "UK-Edinburgh: Translation services - 8846898",
+        "releaseDate": "2013-12-12",
+        "releaseTag": "awardNotice",
+        "language": "en",
+        "buyer": {
+            "id": {
+                "name": "LOTHIAN AND BORDERS POLICE",
+                "uid": 6369573,
+                "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6369573"
+            },
+            "address": {
+                "countryName": "United Kingdom"
+            }
+        },
+        "formation": {
+            "tenderID": "8846898",
+            "notice": {
+                "id": "UK-Edinburgh: Translation services",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8846898",
+                "publishedDate": "2013-01-08"
+            },
+            "itemsToBeProcured": [{
+                "description": "Business services",
+                "classificationScheme": "CPV",
+                "classificationID": "79000000",
+                "classificationDescription": "Business services"
+            }],
+            "totalValue": {
+                "amount": 0,
+                "currency": "EUR"
+            },
+            "selectionCriteria": "The most economic tender",
+            "numberOfBids": 4
+        },
+        "awards": [{
+            "awardID": "3117493",
+            "notice": {
+                "id": "{title: UK-Edinburgh: Translation services}",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8846898",
+                "publishedDate": "2013-01-08"
+            },
+            "awardDate": "2013-12-12",
+            "awardValue": {
+                "amount": 0,
+                "currency": "EUR"
+            },
+            "suppliers": [{
+                "id": {
+                    "name": "Global voices ltd",
+                    "uri": "http://www.contractawards.eu/#!supplier=Global voices ltd"
+                },
+                "address": {}
+            }],
+            "itemsAwarded": [{
+                "description": "Business services",
+                "classificationScheme": "CPV",
+                "classificationID": "79000000",
+                "classificationDescription": "Business services"
+            }]
+        }]
+    }, {
+        "ocid": "11618-2013",
+        "releaseID": "UK-Yeovil: Bathroom furniture - 8873928",
+        "releaseDate": "2013-12-02",
+        "releaseTag": "awardNotice",
+        "language": "en",
+        "buyer": {
+            "id": {
+                "name": "ADVANTAGE SOUTH WEST",
+                "uid": 6368419,
+                "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6368419"
+            },
+            "address": {
+                "countryName": "United Kingdom"
+            }
+        },
+        "formation": {
+            "tenderID": "8873928",
+            "notice": {
+                "id": "UK-Yeovil: Bathroom furniture",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8873928",
+                "publishedDate": "2013-01-16"
+            },
+            "itemsToBeProcured": [{
+                "description": "Furniture, furnishings, domestic appliances and cleaning products",
+                "classificationScheme": "CPV",
+                "classificationID": "39000000",
+                "classificationDescription": "Furniture, furnishings, domestic appliances and cleaning products"
+            }],
+            "totalValue": {
+                "amount": 0,
+                "currency": "EUR"
+            },
+            "selectionCriteria": "The most economic tender",
+            "numberOfBids": 4
+        },
+        "awards": [{
+            "awardID": "3121410",
+            "notice": {
+                "id": "{title: UK-Yeovil: Bathroom furniture}",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8873928",
+                "publishedDate": "2013-01-16"
+            },
+            "awardDate": "2013-12-02",
+            "awardValue": {
+                "amount": 0,
+                "currency": "EUR"
+            },
+            "suppliers": [{
+                "id": {
+                    "name": "Ideal standard",
+                    "uri": "http://www.contractawards.eu/#!supplier=Ideal standard"
+                },
+                "address": {}
+            }],
+            "itemsAwarded": [{
+                "description": "Furniture, furnishings, domestic appliances and cleaning products",
+                "classificationScheme": "CPV",
+                "classificationID": "39000000",
+                "classificationDescription": "Furniture, furnishings, domestic appliances and cleaning products"
+            }]
+        }]
+    }, {
+        "ocid": "11625-2013",
+        "releaseID": "UK-Yeovil: Taps - 8873935",
+        "releaseDate": "2013-12-02",
+        "releaseTag": "awardNotice",
+        "language": "en",
+        "buyer": {
+            "id": {
+                "name": "ADVANTAGE SOUTH WEST",
+                "uid": 6368419,
+                "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6368419"
+            },
+            "address": {
+                "countryName": "United Kingdom"
+            }
+        },
+        "formation": {
+            "tenderID": "8873935",
+            "notice": {
+                "id": "UK-Yeovil: Taps",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8873935",
+                "publishedDate": "2013-01-16"
+            },
+            "itemsToBeProcured": [{
+                "description": "Construction structures and materials; auxiliary products to construction",
+                "classificationScheme": "CPV",
+                "classificationID": "44000000",
+                "classificationDescription": "Construction structures and materials; auxiliary products to construction"
+            }],
+            "totalValue": {
+                "amount": 0,
+                "currency": "EUR"
+            },
+            "selectionCriteria": "The most economic tender",
+            "numberOfBids": 4
+        },
+        "awards": [{
+            "awardID": "3121422",
+            "notice": {
+                "id": "{title: UK-Yeovil: Taps}",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8873935",
+                "publishedDate": "2013-01-16"
+            },
+            "awardDate": "2013-12-02",
+            "awardValue": {
+                "amount": 0,
+                "currency": "EUR"
+            },
+            "suppliers": [{
+                "id": {
+                    "name": "Eurobath international ltd t/a vado",
+                    "uri": "http://www.contractawards.eu/#!supplier=Eurobath international ltd t/a vado"
+                },
+                "address": {}
+            }],
+            "itemsAwarded": [{
+                "description": "Construction structures and materials; auxiliary products to construction",
+                "classificationScheme": "CPV",
+                "classificationID": "44000000",
+                "classificationDescription": "Construction structures and materials; auxiliary products to construction"
+            }]
+        }]
+    }, {
+        "ocid": "13298-2013",
+        "releaseID": "UK-Carlisle: Animal products, meat and meat products - 8876180",
+        "releaseDate": "2013-12-03",
+        "releaseTag": "awardNotice",
+        "language": "en",
+        "buyer": {
+            "id": {
+                "name": "CUMBRIA COUNTY COUNCIL",
+                "uid": 6555164,
+                "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6555164"
+            },
+            "address": {
+                "countryName": "United Kingdom"
+            }
+        },
+        "formation": {
+            "tenderID": "8876180",
+            "notice": {
+                "id": "UK-Carlisle: Animal products, meat and meat products",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8876180",
+                "publishedDate": "2013-01-16"
+            },
+            "itemsToBeProcured": [{
+                "description": "Agricultural, farming, fishing, forestry ",
+                "classificationScheme": "CPV",
+                "classificationID": "03000000",
+                "classificationDescription": "Agricultural, farming, fishing, forestry "
+            }],
+            "totalValue": {
+                "amount": 0,
+                "currency": "EUR"
+            },
+            "selectionCriteria": "The most economic tender",
+            "numberOfBids": 5
+        },
+        "awards": [{
+            "awardID": "3123168",
+            "notice": {
+                "id": "{title: UK-Carlisle: Animal products, meat and meat products}",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8876180",
+                "publishedDate": "2013-01-16"
+            },
+            "awardDate": "2013-12-03",
+            "awardValue": {
+                "amount": 0,
+                "currency": "EUR"
+            },
+            "suppliers": [{
+                "id": {
+                    "name": "Pfd (carlisle) ltd",
+                    "uri": "http://www.contractawards.eu/#!supplier=Pfd (carlisle) ltd"
+                },
+                "address": {}
+            }],
+            "itemsAwarded": [{
+                "description": "Agricultural, farming, fishing, forestry ",
+                "classificationScheme": "CPV",
+                "classificationID": "03000000",
+                "classificationDescription": "Agricultural, farming, fishing, forestry "
+            }]
+        }]
+    }, {
+        "ocid": "20676-2013",
+        "releaseID": "D-Bonn: Research and development services and related consultancy services - 8899939",
+        "releaseDate": "2013-12-17",
+        "releaseTag": "awardNotice",
+        "language": "en",
+        "buyer": {
+            "id": {
+                "name": "BUNDESMINISTERIUM FÜR WIRTSCHAFT UND TECHNOLOGIE (BMWI), REFERAT I C 4",
+                "uid": 6511043,
+                "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6511043"
+            },
+            "address": {
+                "countryName": "Germany"
+            }
+        },
+        "formation": {
+            "tenderID": "8899939",
+            "notice": {
+                "id": "D-Bonn: Research and development services and related consultancy services",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8899939",
+                "publishedDate": "2013-01-22"
+            },
+            "itemsToBeProcured": [{
+                "description": "Research and development services and related consultancy services",
+                "classificationScheme": "CPV",
+                "classificationID": "73000000",
+                "classificationDescription": "Research and development services and related consultancy services"
+            }],
+            "totalValue": {
+                "amount": 0,
+                "currency": "EUR"
+            },
+            "selectionCriteria": "The most economic tender",
+            "numberOfBids": 4
+        },
+        "awards": [{
+            "awardID": "3127866",
+            "notice": {
+                "id": "{title: D-Bonn: Research and development services and related consultancy services}",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8899939",
+                "publishedDate": "2013-01-22"
+            },
+            "awardDate": "2013-12-17",
+            "awardValue": {
+                "amount": 0,
+                "currency": "EUR"
+            },
+            "suppliers": [{
+                "id": {
+                    "name": "Rwth aachen university, institut für kraftfahrzeuge (ika)",
+                    "uri": "http://www.contractawards.eu/#!supplier=Rwth aachen university, institut für kraftfahrzeuge (ika)"
+                },
+                "address": {}
+            }],
+            "itemsAwarded": [{
+                "description": "Research and development services and related consultancy services",
+                "classificationScheme": "CPV",
+                "classificationID": "73000000",
+                "classificationDescription": "Research and development services and related consultancy services"
+            }]
+        }]
+    }, {
+        "ocid": "22273-2013",
+        "releaseID": "UK-Glasgow: Community action programme - 8906419",
+        "releaseDate": "2013-12-10",
+        "releaseTag": "awardNotice",
+        "language": "en",
+        "buyer": {
+            "id": {
+                "name": "GLASGOW CITY COUNCIL",
+                "uid": 1322485,
+                "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=1322485"
+            },
+            "address": {
+                "countryName": "United Kingdom"
+            }
+        },
+        "formation": {
+            "tenderID": "8906419",
+            "notice": {
+                "id": "UK-Glasgow: Community action programme",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8906419",
+                "publishedDate": "2013-01-23"
+            },
+            "itemsToBeProcured": [{
+                "description": "Health and social work services",
+                "classificationScheme": "CPV",
+                "classificationID": "85000000",
+                "classificationDescription": "Health and social work services"
+            }],
+            "totalValue": {
+                "amount": 685986,
+                "currency": "EUR"
+            },
+            "selectionCriteria": "The most economic tender",
+            "numberOfBids": 3
+        },
+        "awards": [{
+            "awardID": "3129068",
+            "notice": {
+                "id": "{title: UK-Glasgow: Community action programme}",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8906419",
+                "publishedDate": "2013-01-23"
+            },
+            "awardDate": "2013-12-10",
+            "awardValue": {
+                "amount": 685986,
+                "currency": "EUR"
+            },
+            "suppliers": [{
+                "id": {
+                    "name": "Ymca glasgow",
+                    "uri": "http://www.contractawards.eu/#!supplier=Ymca glasgow"
+                },
+                "address": {}
+            }],
+            "itemsAwarded": [{
+                "description": "Health and social work services",
+                "classificationScheme": "CPV",
+                "classificationID": "85000000",
+                "classificationDescription": "Health and social work services"
+            }]
+        }]
+    }, {
+        "ocid": "35348-2013",
+        "releaseID": "PL-Warsaw: Software maintenance and repair services - 8953564",
+        "releaseDate": "2013-12-28",
+        "releaseTag": "awardNotice",
+        "language": "en",
+        "buyer": {
+            "id": {
+                "name": "POLSKIE GÓRNICTWO NAFTOWE I GAZOWNICTWO S.A.",
+                "uid": 1317800,
+                "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=1317800"
+            },
+            "address": {
+                "countryName": "Poland"
+            }
+        },
+        "formation": {
+            "tenderID": "8953564",
+            "notice": {
+                "id": "PL-Warsaw: Software maintenance and repair services",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8953564",
+                "publishedDate": "2013-02-04"
+            },
+            "itemsToBeProcured": [{
+                "description": "IT services: consulting, software development, Internet and support",
+                "classificationScheme": "CPV",
+                "classificationID": "72000000",
+                "classificationDescription": "IT services: consulting, software development, Internet and support"
+            }],
+            "totalValue": {
+                "amount": 0,
+                "currency": "EUR"
+            },
+            "selectionCriteria": "Lowest price",
+            "numberOfBids": 3
+        },
+        "awards": [{
+            "awardID": "3136530",
+            "notice": {
+                "id": "{title: PL-Warsaw: Software maintenance and repair services}",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8953564",
+                "publishedDate": "2013-02-04"
+            },
+            "awardDate": "2013-12-28",
+            "awardValue": {
+                "amount": 0,
+                "currency": "EUR"
+            },
+            "suppliers": [{
+                "id": {
+                    "name": "Proximus s.a.",
+                    "uri": "http://www.contractawards.eu/#!supplier=Proximus s.a."
+                },
+                "address": {
+                    "countryName": "Poland"
+                }
+            }],
+            "itemsAwarded": [{
+                "description": "IT services: consulting, software development, Internet and support",
+                "classificationScheme": "CPV",
+                "classificationID": "72000000",
+                "classificationDescription": "IT services: consulting, software development, Internet and support"
+            }]
+        }]
+    }, {
+        "ocid": "36585-2013",
+        "releaseID": "UK-Wakefield: Insurance services - 8956342",
+        "releaseDate": "2013-12-11",
+        "releaseTag": "awardNotice",
+        "language": "en",
+        "buyer": {
+            "id": {
+                "name": "YPO",
+                "uid": 6762190,
+                "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6762190"
+            },
+            "address": {
+                "countryName": "United Kingdom"
+            }
+        },
+        "formation": {
+            "tenderID": "8956342",
+            "notice": {
+                "id": "UK-Wakefield: Insurance services",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8956342",
+                "publishedDate": "2013-02-04"
+            },
+            "itemsToBeProcured": [{
+                "description": "Financial and insurance services",
+                "classificationScheme": "CPV",
+                "classificationID": "66000000",
+                "classificationDescription": "Financial and insurance services"
+            }],
+            "totalValue": {
+                "amount": 0,
+                "currency": "EUR"
+            },
+            "selectionCriteria": "The most economic tender",
+            "numberOfBids": 2
+        },
+        "awards": [{
+            "awardID": "3136972",
+            "notice": {
+                "id": "{title: UK-Wakefield: Insurance services}",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8956342",
+                "publishedDate": "2013-02-04"
+            },
+            "awardDate": "2013-12-11",
+            "awardValue": {
+                "amount": 0,
+                "currency": "EUR"
+            },
+            "suppliers": [{
+                "id": {
+                    "name": "Qbe",
+                    "uri": "http://www.contractawards.eu/#!supplier=Qbe"
+                },
+                "address": {}
+            }],
+            "itemsAwarded": [{
+                "description": "Financial and insurance services",
+                "classificationScheme": "CPV",
+                "classificationID": "66000000",
+                "classificationDescription": "Financial and insurance services"
+            }]
+        }]
+    }, {
+        "ocid": "36709-2013",
+        "releaseID": "UK-London: School cleaning services - 8956467",
+        "releaseDate": "2013-12-02",
+        "releaseTag": "awardNotice",
+        "language": "en",
+        "buyer": {
+            "id": {
+                "name": "ST ANGELA'S URSULINE SCHOOL",
+                "uid": 6720786,
+                "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6720786"
+            },
+            "address": {
+                "countryName": "United Kingdom"
+            }
+        },
+        "formation": {
+            "tenderID": "8956467",
+            "notice": {
+                "id": "UK-London: School cleaning services",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8956467",
+                "publishedDate": "2013-02-04"
+            },
+            "itemsToBeProcured": [{
+                "description": "Sewage, refuse, cleaning and environmental services",
+                "classificationScheme": "CPV",
+                "classificationID": "90000000",
+                "classificationDescription": "Sewage, refuse, cleaning and environmental services"
+            }],
+            "totalValue": {
+                "amount": 550399,
+                "currency": "EUR"
+            },
+            "selectionCriteria": "The most economic tender",
+            "numberOfBids": 4
+        },
+        "awards": [{
+            "awardID": "3137170",
+            "notice": {
+                "id": "{title: UK-London: School cleaning services}",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8956467",
+                "publishedDate": "2013-02-04"
+            },
+            "awardDate": "2013-12-02",
+            "awardValue": {
+                "amount": 550399,
+                "currency": "EUR"
+            },
+            "suppliers": [{
+                "id": {
+                    "name": "Ridge crest",
+                    "uri": "http://www.contractawards.eu/#!supplier=Ridge crest"
+                },
+                "address": {}
+            }],
+            "itemsAwarded": [{
+                "description": "Sewage, refuse, cleaning and environmental services",
+                "classificationScheme": "CPV",
+                "classificationID": "90000000",
+                "classificationDescription": "Sewage, refuse, cleaning and environmental services"
+            }]
+        }]
+    }, {
+        "ocid": "67962-2013",
+        "releaseID": "FI-Espoo: Geological, geophysical and other scientific prospecting\nservices - 9088507",
+        "releaseDate": "2013-12-13",
+        "releaseTag": "awardNotice",
+        "language": "en",
+        "buyer": {
+            "id": {
+                "name": "GEOLOGIAN TUTKIMUSKESKUS (1711392-5)",
+                "uid": 6769246,
+                "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6769246"
+            },
+            "address": {
+                "countryName": "Finland"
+            }
+        },
+        "formation": {
+            "tenderID": "9088507",
+            "notice": {
+                "id": "FI-Espoo: Geological, geophysical and other scientific prospecting\nservices",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9088507",
+                "publishedDate": "2013-03-05"
+            },
+            "itemsToBeProcured": [{
+                "description": "Architectural, construction, engineering and inspection services",
+                "classificationScheme": "CPV",
+                "classificationID": "71000000",
+                "classificationDescription": "Architectural, construction, engineering and inspection services"
+            }],
+            "totalValue": {
+                "amount": 600000,
+                "currency": "EUR"
+            },
+            "selectionCriteria": "The most economic tender",
+            "numberOfBids": 4
+        },
+        "awards": [{
+            "awardID": "3155105",
+            "notice": {
+                "id": "{title: FI-Espoo: Geological, geophysical and other scientific prospecting\nservices}",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9088507",
+                "publishedDate": "2013-03-05"
+            },
+            "awardDate": "2013-12-13",
+            "awardValue": {
+                "amount": 600000,
+                "currency": "EUR"
+            },
+            "suppliers": [{
+                "id": {
+                    "name": "Suomen malmi o",
+                    "uri": "http://www.contractawards.eu/#!supplier=Suomen malmi o"
+                },
+                "address": {}
+            }],
+            "itemsAwarded": [{
+                "description": "Architectural, construction, engineering and inspection services",
+                "classificationScheme": "CPV",
+                "classificationID": "71000000",
+                "classificationDescription": "Architectural, construction, engineering and inspection services"
+            }]
+        }]
+    }, {
+        "ocid": "69871-2013",
+        "releaseID": "E-Montgat: Ornamental and pleasure gardens maintenance services - 9089307",
+        "releaseDate": "2013-12-13",
+        "releaseTag": "awardNotice",
+        "language": "en",
+        "buyer": {
+            "id": {
+                "name": "AJUNTAMENT DE MONTGAT (P0812500G)",
+                "uid": 6734775,
+                "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6734775"
+            },
+            "address": {
+                "countryName": "Spain"
+            }
+        },
+        "formation": {
+            "tenderID": "9089307",
+            "notice": {
+                "id": "E-Montgat: Ornamental and pleasure gardens maintenance services",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9089307",
+                "publishedDate": "2013-03-05"
+            },
+            "itemsToBeProcured": [{
+                "description": "Agricultural, forestry, horticultural, aquacultural and apicultural services",
+                "classificationScheme": "CPV",
+                "classificationID": "77000000",
+                "classificationDescription": "Agricultural, forestry, horticultural, aquacultural and apicultural services"
+            }],
+            "totalValue": {
+                "amount": 708979,
+                "currency": "EUR"
+            },
+            "selectionCriteria": "The most economic tender",
+            "numberOfBids": 1
+        },
+        "awards": [{
+            "awardID": "3156855",
+            "notice": {
+                "id": "{title: E-Montgat: Ornamental and pleasure gardens maintenance services}",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9089307",
+                "publishedDate": "2013-03-05"
+            },
+            "awardDate": "2013-12-13",
+            "awardValue": {
+                "amount": 708979,
+                "currency": "EUR"
+            },
+            "suppliers": [{
+                "id": {
+                    "name": "Urbacet",
+                    "uri": "http://www.contractawards.eu/#!supplier=Urbacet"
+                },
+                "address": {}
+            }],
+            "itemsAwarded": [{
+                "description": "Agricultural, forestry, horticultural, aquacultural and apicultural services",
+                "classificationScheme": "CPV",
+                "classificationID": "77000000",
+                "classificationDescription": "Agricultural, forestry, horticultural, aquacultural and apicultural services"
+            }]
+        }]
+    }, {
+        "ocid": "82757-2013",
+        "releaseID": "I-Brescia: Laboratory reagents - 9134780",
+        "releaseDate": "2013-12-31",
+        "releaseTag": "awardNotice",
+        "language": "en",
+        "buyer": {
+            "id": {
+                "name": "AZIENDA OSPEDALIERA SPEDALI CIVILI DI BRESCIA",
+                "uid": 1340690,
+                "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=1340690"
+            },
+            "address": {
+                "countryName": "Italy"
+            }
+        },
+        "formation": {
+            "tenderID": "9134780",
+            "notice": {
+                "id": "I-Brescia: Laboratory reagents",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9134780",
+                "publishedDate": "2013-03-13"
+            },
+            "itemsToBeProcured": [{
+                "description": "Medical equipment, pharmaceuticals and personal care products",
+                "classificationScheme": "CPV",
+                "classificationID": "33000000",
+                "classificationDescription": "Medical equipment, pharmaceuticals and personal care products"
+            }],
+            "totalValue": {
+                "amount": 31104,
+                "currency": "EUR"
+            },
+            "selectionCriteria": "The most economic tender",
+            "numberOfBids": 0
+        },
+        "awards": [{
+            "awardID": "3162579",
+            "notice": {
+                "id": "{title: I-Brescia: Laboratory reagents}",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9134780",
+                "publishedDate": "2013-03-13"
+            },
+            "awardDate": "2013-12-31",
+            "awardValue": {
+                "amount": 31104,
+                "currency": "EUR"
+            },
+            "suppliers": [{
+                "id": {
+                    "name": "Arnika",
+                    "uri": "http://www.contractawards.eu/#!supplier=Arnika"
+                },
+                "address": {}
+            }],
+            "itemsAwarded": [{
+                "description": "Medical equipment, pharmaceuticals and personal care products",
+                "classificationScheme": "CPV",
+                "classificationID": "33000000",
+                "classificationDescription": "Medical equipment, pharmaceuticals and personal care products"
+            }]
+        }, {
+            "awardID": "3162608",
+            "notice": {
+                "id": "{title: I-Brescia: Laboratory reagents}",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9134780",
+                "publishedDate": "2013-03-13"
+            },
+            "awardDate": "2013-12-31",
+            "awardValue": {
+                "amount": 68446,
+                "currency": "EUR"
+            },
+            "suppliers": [{
+                "id": {
+                    "name": "Sigma",
+                    "uri": "http://www.contractawards.eu/#!supplier=Sigma"
+                },
+                "address": {}
+            }],
+            "itemsAwarded": [{
+                "description": "Medical equipment, pharmaceuticals and personal care products",
+                "classificationScheme": "CPV",
+                "classificationID": "33000000",
+                "classificationDescription": "Medical equipment, pharmaceuticals and personal care products"
+            }]
+        }]
+    }, {
+        "ocid": "109705-2013",
+        "releaseID": "D-Aachen: Structural steelworks - 9229540",
+        "releaseDate": "2013-12-27",
+        "releaseTag": "awardNotice",
+        "language": "en",
+        "buyer": {
+            "id": {
+                "name": "HANDWERKSKAMMER AACHEN",
+                "uid": 6452190,
+                "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6452190"
+            },
+            "address": {
+                "countryName": "Germany"
+            }
+        },
+        "formation": {
+            "tenderID": "9229540",
+            "notice": {
+                "id": "D-Aachen: Structural steelworks",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9229540",
+                "publishedDate": "2013-04-04"
+            },
+            "itemsToBeProcured": [{
+                "description": "Construction work",
+                "classificationScheme": "CPV",
+                "classificationID": "45000000",
+                "classificationDescription": "Construction work"
+            }],
+            "totalValue": {
+                "amount": 0,
+                "currency": "EUR"
+            },
+            "selectionCriteria": "Lowest price",
+            "numberOfBids": 11
+        },
+        "awards": [{
+            "awardID": "3174470",
+            "notice": {
+                "id": "{title: D-Aachen: Structural steelworks}",
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9229540",
+                "publishedDate": "2013-04-04"
+            },
+            "awardDate": "2013-12-27",
+            "awardValue": {
+                "amount": 0,
+                "currency": "EUR"
+            },
+            "suppliers": [{
+                "id": {
+                    "name": "A.i.s. gmbh",
+                    "uri": "http://www.contractawards.eu/#!supplier=A.i.s. gmbh"
+                },
+                "address": {}
+            }],
+            "itemsAwarded": [{
+                "description": "Construction work",
+                "classificationScheme": "CPV",
+                "classificationID": "45000000",
+                "classificationDescription": "Construction work"
+            }]
+        }]
+    }]
+}
