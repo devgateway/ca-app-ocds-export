@@ -4,21 +4,21 @@
     },
 
     "uri": "http://contractawards.eu/export/OCDS?year=2013&month=11",
-    "publishingMeta": "2014-09-13",
+    "publishingMeta": "2014-09-14T08:10:25-0400",
     "releases": [{
         "ocid": "11580-2013",
         "releaseID": "UK-Belfast: Medical equipments - 8873890",
-        "releaseDate": "2013-11-13",
+        "releaseDate": "2013-11-13T00:00:00-0500",
         "releaseTag": "awardNotice",
         "language": "en",
         "buyer": {
             "id": {
                 "name": "PROCUREMENT AND LOGISTICS SERVICE",
-                "uid": 6418183,
+                "uid": "6418183",
                 "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6418183"
             },
             "address": {
-                "countryName": "United Kingdom"
+                "country-name": "United Kingdom"
             }
         },
         "formation": {
@@ -26,7 +26,7 @@
             "notice": {
                 "id": "UK-Belfast: Medical equipments",
                 "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8873890",
-                "publishedDate": "2013-01-16"
+                "publishedDate": "2013-01-16T00:00:00-0500"
             },
             "itemsToBeProcured": [{
                 "description": "Medical equipment, pharmaceuticals and personal care products",
@@ -38,17 +38,16 @@
                 "amount": 125000,
                 "currency": "EUR"
             },
-            "selectionCriteria": "The most economic tender",
             "numberOfBids": 1
         },
         "awards": [{
             "awardID": "3121304",
             "notice": {
                 "id": "{title: UK-Belfast: Medical equipments}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8873890",
-                "publishedDate": "2013-01-16"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=8873890",
+                "publishedDate": "2013-01-16T00:00:00-0500"
             },
-            "awardDate": "2013-11-13",
+            "awardDate": "2013-11-13T00:00:00-0500",
             "awardValue": {
                 "amount": 125000,
                 "currency": "EUR"
@@ -56,7 +55,7 @@
             "suppliers": [{
                 "id": {
                     "name": "Medtronic limited",
-                    "uri": "http://www.contractawards.eu/#!supplier=Medtronic limited"
+                    "uri": "http://www.contractawards.eu/#!supplier=Medtronic+limited"
                 },
                 "address": {}
             }],
@@ -70,17 +69,17 @@
     }, {
         "ocid": "11715-2013",
         "releaseID": "D-Delitzsch: Rescue vehicles - 8874025",
-        "releaseDate": "2013-11-27",
+        "releaseDate": "2013-11-27T00:00:00-0500",
         "releaseTag": "awardNotice",
         "language": "en",
         "buyer": {
             "id": {
                 "name": "EIGENBETRIEB RETTUNGSDIENST LANDKREIS NORDSACHSEN",
-                "uid": 6594414,
+                "uid": "6594414",
                 "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6594414"
             },
             "address": {
-                "countryName": "Germany"
+                "country-name": "Germany"
             }
         },
         "formation": {
@@ -88,7 +87,7 @@
             "notice": {
                 "id": "D-Delitzsch: Rescue vehicles",
                 "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8874025",
-                "publishedDate": "2013-01-16"
+                "publishedDate": "2013-01-16T00:00:00-0500"
             },
             "itemsToBeProcured": [{
                 "description": "Transport equipment and auxiliary products to transportation",
@@ -100,17 +99,16 @@
                 "amount": 886437,
                 "currency": "EUR"
             },
-            "selectionCriteria": "The most economic tender",
             "numberOfBids": 1
         },
         "awards": [{
             "awardID": "3121786",
             "notice": {
                 "id": "{title: D-Delitzsch: Rescue vehicles}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8874025",
-                "publishedDate": "2013-01-16"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=8874025",
+                "publishedDate": "2013-01-16T00:00:00-0500"
             },
-            "awardDate": "2013-11-27",
+            "awardDate": "2013-11-27T00:00:00-0500",
             "awardValue": {
                 "amount": 886437,
                 "currency": "EUR"
@@ -118,10 +116,10 @@
             "suppliers": [{
                 "id": {
                     "name": "Autohaus kühn gmbh",
-                    "uri": "http://www.contractawards.eu/#!supplier=Autohaus kühn gmbh"
+                    "uri": "http://www.contractawards.eu/#!supplier=Autohaus+k%C3%BChn+gmbh"
                 },
                 "address": {
-                    "countryName": "Germany"
+                    "country-name": "Germany"
                 }
             }],
             "itemsAwarded": [{
@@ -134,17 +132,17 @@
     }, {
         "ocid": "22567-2013",
         "releaseID": "UK-New Penshaw: Cable - 8906708",
-        "releaseDate": "2013-11-13",
+        "releaseDate": "2013-11-13T00:00:00-0500",
         "releaseTag": "awardNotice",
         "language": "en",
         "buyer": {
             "id": {
                 "name": "NORTHERN POWERGRID LIMITED",
-                "uid": 6641046,
+                "uid": "6641046",
                 "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6641046"
             },
             "address": {
-                "countryName": "United Kingdom"
+                "country-name": "United Kingdom"
             }
         },
         "formation": {
@@ -152,7 +150,7 @@
             "notice": {
                 "id": "UK-New Penshaw: Cable",
                 "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8906708",
-                "publishedDate": "2013-01-23"
+                "publishedDate": "2013-01-23T00:00:00-0500"
             },
             "itemsToBeProcured": [{
                 "description": "Construction structures and materials; auxiliary products to construction",
@@ -164,17 +162,16 @@
                 "amount": 0,
                 "currency": "EUR"
             },
-            "selectionCriteria": "The most economic tender",
             "numberOfBids": 5
         },
         "awards": [{
             "awardID": "3129367",
             "notice": {
                 "id": "{title: UK-New Penshaw: Cable}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8906708",
-                "publishedDate": "2013-01-23"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=8906708",
+                "publishedDate": "2013-01-23T00:00:00-0500"
             },
-            "awardDate": "2013-11-13",
+            "awardDate": "2013-11-13T00:00:00-0500",
             "awardValue": {
                 "amount": 0,
                 "currency": "EUR"
@@ -182,7 +179,7 @@
             "suppliers": [{
                 "id": {
                     "name": "Copper cable company limited",
-                    "uri": "http://www.contractawards.eu/#!supplier=Copper cable company limited"
+                    "uri": "http://www.contractawards.eu/#!supplier=Copper+cable+company+limited"
                 },
                 "address": {}
             }],
@@ -196,17 +193,17 @@
     }, {
         "ocid": "36699-2013",
         "releaseID": "UK-Horsham: School cleaning services - 8956457",
-        "releaseDate": "2013-11-01",
+        "releaseDate": "2013-11-01T00:00:00-0400",
         "releaseTag": "awardNotice",
         "language": "en",
         "buyer": {
             "id": {
                 "name": "TANBRIDGE HOUSE SCHOOL",
-                "uid": 6762200,
+                "uid": "6762200",
                 "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6762200"
             },
             "address": {
-                "countryName": "United Kingdom"
+                "country-name": "United Kingdom"
             }
         },
         "formation": {
@@ -214,7 +211,7 @@
             "notice": {
                 "id": "UK-Horsham: School cleaning services",
                 "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8956457",
-                "publishedDate": "2013-02-04"
+                "publishedDate": "2013-02-04T00:00:00-0500"
             },
             "itemsToBeProcured": [{
                 "description": "Sewage, refuse, cleaning and environmental services",
@@ -226,17 +223,16 @@
                 "amount": 260040,
                 "currency": "EUR"
             },
-            "selectionCriteria": "The most economic tender",
             "numberOfBids": 6
         },
         "awards": [{
             "awardID": "3137158",
             "notice": {
                 "id": "{title: UK-Horsham: School cleaning services}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8956457",
-                "publishedDate": "2013-02-04"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=8956457",
+                "publishedDate": "2013-02-04T00:00:00-0500"
             },
-            "awardDate": "2013-11-01",
+            "awardDate": "2013-11-01T00:00:00-0400",
             "awardValue": {
                 "amount": 260040,
                 "currency": "EUR"
@@ -244,7 +240,7 @@
             "suppliers": [{
                 "id": {
                     "name": "Wyclean group",
-                    "uri": "http://www.contractawards.eu/#!supplier=Wyclean group"
+                    "uri": "http://www.contractawards.eu/#!supplier=Wyclean+group"
                 },
                 "address": {}
             }],
@@ -258,17 +254,17 @@
     }, {
         "ocid": "124977-2013",
         "releaseID": "D-Nuremberg: IT services: consulting, software development, Internet and\nsupport - 9284337",
-        "releaseDate": "2013-11-16",
+        "releaseDate": "2013-11-16T00:00:00-0500",
         "releaseTag": "awardNotice",
         "language": "en",
         "buyer": {
             "id": {
                 "name": "BUNDESAGENTUR FÜR ARBEIT (BA), VERTRETEN DURCH DEN VORSTAND, HIER\nVERTRETEN DURCH DEN LEITER DES GESCHÄFTSBEREICHES EINKAUF IM\nBA-SERVICE-HAUS",
-                "uid": 6657553,
+                "uid": "6657553",
                 "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6657553"
             },
             "address": {
-                "countryName": "Germany"
+                "country-name": "Germany"
             }
         },
         "formation": {
@@ -276,7 +272,7 @@
             "notice": {
                 "id": "D-Nuremberg: IT services: consulting, software development, Internet and\nsupport",
                 "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9284337",
-                "publishedDate": "2013-04-17"
+                "publishedDate": "2013-04-17T00:00:00-0400"
             },
             "itemsToBeProcured": [{
                 "description": "IT services: consulting, software development, Internet and support",
@@ -288,17 +284,16 @@
                 "amount": 0,
                 "currency": "EUR"
             },
-            "selectionCriteria": "The most economic tender",
             "numberOfBids": 2
         },
         "awards": [{
             "awardID": "3182347",
             "notice": {
                 "id": "{title: D-Nuremberg: IT services: consulting, software development, Internet and\nsupport}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9284337",
-                "publishedDate": "2013-04-17"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=9284337",
+                "publishedDate": "2013-04-17T00:00:00-0400"
             },
-            "awardDate": "2013-11-16",
+            "awardDate": "2013-11-16T00:00:00-0500",
             "awardValue": {
                 "amount": 0,
                 "currency": "EUR"
@@ -306,7 +301,7 @@
             "suppliers": [{
                 "id": {
                     "name": "Roland konstanty it-beratung",
-                    "uri": "http://www.contractawards.eu/#!supplier=Roland konstanty it-beratung"
+                    "uri": "http://www.contractawards.eu/#!supplier=Roland+konstanty+it-beratung"
                 },
                 "address": {}
             }],
@@ -320,17 +315,17 @@
     }, {
         "ocid": "149248-2013",
         "releaseID": "UK-London: Insurance services - 9359318",
-        "releaseDate": "2013-11-28",
+        "releaseDate": "2013-11-28T00:00:00-0500",
         "releaseTag": "awardNotice",
         "language": "en",
         "buyer": {
             "id": {
                 "name": "NATIONAL EMPLOYMENT SAVINGS TRUST (NEST)",
-                "uid": 6527393,
+                "uid": "6527393",
                 "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6527393"
             },
             "address": {
-                "countryName": "United Kingdom"
+                "country-name": "United Kingdom"
             }
         },
         "formation": {
@@ -338,7 +333,7 @@
             "notice": {
                 "id": "UK-London: Insurance services",
                 "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9359318",
-                "publishedDate": "2013-05-07"
+                "publishedDate": "2013-05-07T00:00:00-0400"
             },
             "itemsToBeProcured": [{
                 "description": "Financial and insurance services",
@@ -350,17 +345,16 @@
                 "amount": 0,
                 "currency": "EUR"
             },
-            "selectionCriteria": "The most economic tender",
             "numberOfBids": 0
         },
         "awards": [{
             "awardID": "3194568",
             "notice": {
                 "id": "{title: UK-London: Insurance services}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9359318",
-                "publishedDate": "2013-05-07"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=9359318",
+                "publishedDate": "2013-05-07T00:00:00-0400"
             },
-            "awardDate": "2013-11-28",
+            "awardDate": "2013-11-28T00:00:00-0500",
             "awardValue": {
                 "amount": 0,
                 "currency": "EUR"
@@ -368,7 +362,7 @@
             "suppliers": [{
                 "id": {
                     "name": "Canada life limited,",
-                    "uri": "http://www.contractawards.eu/#!supplier=Canada life limited,"
+                    "uri": "http://www.contractawards.eu/#!supplier=Canada+life+limited%2C"
                 },
                 "address": {}
             }],
@@ -382,17 +376,17 @@
     }, {
         "ocid": "150651-2013",
         "releaseID": "FI-Seinäjoki: Bakery products - 9365622",
-        "releaseDate": "2013-11-15",
+        "releaseDate": "2013-11-15T00:00:00-0500",
         "releaseTag": "awardNotice",
         "language": "en",
         "buyer": {
             "id": {
                 "name": "SEINÄJOEN KAUPUNKI (1071281-0)",
-                "uid": 6784209,
+                "uid": "6784209",
                 "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6784209"
             },
             "address": {
-                "countryName": "Finland"
+                "country-name": "Finland"
             }
         },
         "formation": {
@@ -400,7 +394,7 @@
             "notice": {
                 "id": "FI-Seinäjoki: Bakery products",
                 "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9365622",
-                "publishedDate": "2013-05-08"
+                "publishedDate": "2013-05-08T00:00:00-0400"
             },
             "itemsToBeProcured": [{
                 "description": "Food, beverages, tobacco ",
@@ -412,17 +406,16 @@
                 "amount": 120190,
                 "currency": "EUR"
             },
-            "selectionCriteria": "Lowest price",
             "numberOfBids": 3
         },
         "awards": [{
             "awardID": "3195013",
             "notice": {
                 "id": "{title: FI-Seinäjoki: Bakery products}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9365622",
-                "publishedDate": "2013-05-08"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=9365622",
+                "publishedDate": "2013-05-08T00:00:00-0400"
             },
-            "awardDate": "2013-11-15",
+            "awardDate": "2013-11-15T00:00:00-0500",
             "awardValue": {
                 "amount": 120190,
                 "currency": "EUR"
@@ -430,7 +423,7 @@
             "suppliers": [{
                 "id": {
                     "name": "Kauhajoen laatuleipurit o",
-                    "uri": "http://www.contractawards.eu/#!supplier=Kauhajoen laatuleipurit o"
+                    "uri": "http://www.contractawards.eu/#!supplier=Kauhajoen+laatuleipurit+o"
                 },
                 "address": {}
             }],

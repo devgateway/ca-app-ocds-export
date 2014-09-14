@@ -4,21 +4,21 @@
     },
 
     "uri": "http://contractawards.eu/export/OCDS?year=2013&month=12",
-    "publishingMeta": "2014-09-13",
+    "publishingMeta": "2014-09-14T08:10:28-0400",
     "releases": [{
         "ocid": "5180-2013",
         "releaseID": "AT-Linz: Adult and other education services - 8846756",
-        "releaseDate": "2013-12-10",
+        "releaseDate": "2013-12-10T00:00:00-0500",
         "releaseTag": "awardNotice",
         "language": "en",
         "buyer": {
             "id": {
                 "name": "REPUBLIK ÖSTERREICH VERTRETEN DURCH DAS ARBEITSMARKTSERVICE OBERÖSTERREICH",
-                "uid": 6495873,
+                "uid": "6495873",
                 "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6495873"
             },
             "address": {
-                "countryName": "Austria"
+                "country-name": "Austria"
             }
         },
         "formation": {
@@ -26,7 +26,7 @@
             "notice": {
                 "id": "AT-Linz: Adult and other education services",
                 "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8846756",
-                "publishedDate": "2013-01-08"
+                "publishedDate": "2013-01-08T00:00:00-0500"
             },
             "itemsToBeProcured": [{
                 "description": "Education and training services",
@@ -38,17 +38,16 @@
                 "amount": 0,
                 "currency": "EUR"
             },
-            "selectionCriteria": "The most economic tender",
             "numberOfBids": 4
         },
         "awards": [{
             "awardID": "3117282",
             "notice": {
                 "id": "{title: AT-Linz: Adult and other education services}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8846756",
-                "publishedDate": "2013-01-08"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=8846756",
+                "publishedDate": "2013-01-08T00:00:00-0500"
             },
-            "awardDate": "2013-12-10",
+            "awardDate": "2013-12-10T00:00:00-0500",
             "awardValue": {
                 "amount": 0,
                 "currency": "EUR"
@@ -56,7 +55,7 @@
             "suppliers": [{
                 "id": {
                     "name": "Wirtschaftsförderungsinstitut oö - wifi oö",
-                    "uri": "http://www.contractawards.eu/#!supplier=Wirtschaftsförderungsinstitut oö - wifi oö"
+                    "uri": "http://www.contractawards.eu/#!supplier=Wirtschaftsf%C3%B6rderungsinstitut+o%C3%B6+-+wifi+o%C3%B6"
                 },
                 "address": {}
             }],
@@ -70,17 +69,17 @@
     }, {
         "ocid": "5322-2013",
         "releaseID": "UK-Edinburgh: Translation services - 8846898",
-        "releaseDate": "2013-12-12",
+        "releaseDate": "2013-12-12T00:00:00-0500",
         "releaseTag": "awardNotice",
         "language": "en",
         "buyer": {
             "id": {
                 "name": "LOTHIAN AND BORDERS POLICE",
-                "uid": 6369573,
+                "uid": "6369573",
                 "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6369573"
             },
             "address": {
-                "countryName": "United Kingdom"
+                "country-name": "United Kingdom"
             }
         },
         "formation": {
@@ -88,7 +87,7 @@
             "notice": {
                 "id": "UK-Edinburgh: Translation services",
                 "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8846898",
-                "publishedDate": "2013-01-08"
+                "publishedDate": "2013-01-08T00:00:00-0500"
             },
             "itemsToBeProcured": [{
                 "description": "Business services",
@@ -100,17 +99,16 @@
                 "amount": 0,
                 "currency": "EUR"
             },
-            "selectionCriteria": "The most economic tender",
             "numberOfBids": 4
         },
         "awards": [{
             "awardID": "3117493",
             "notice": {
                 "id": "{title: UK-Edinburgh: Translation services}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8846898",
-                "publishedDate": "2013-01-08"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=8846898",
+                "publishedDate": "2013-01-08T00:00:00-0500"
             },
-            "awardDate": "2013-12-12",
+            "awardDate": "2013-12-12T00:00:00-0500",
             "awardValue": {
                 "amount": 0,
                 "currency": "EUR"
@@ -118,7 +116,7 @@
             "suppliers": [{
                 "id": {
                     "name": "Global voices ltd",
-                    "uri": "http://www.contractawards.eu/#!supplier=Global voices ltd"
+                    "uri": "http://www.contractawards.eu/#!supplier=Global+voices+ltd"
                 },
                 "address": {}
             }],
@@ -132,17 +130,17 @@
     }, {
         "ocid": "11618-2013",
         "releaseID": "UK-Yeovil: Bathroom furniture - 8873928",
-        "releaseDate": "2013-12-02",
+        "releaseDate": "2013-12-02T00:00:00-0500",
         "releaseTag": "awardNotice",
         "language": "en",
         "buyer": {
             "id": {
                 "name": "ADVANTAGE SOUTH WEST",
-                "uid": 6368419,
+                "uid": "6368419",
                 "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6368419"
             },
             "address": {
-                "countryName": "United Kingdom"
+                "country-name": "United Kingdom"
             }
         },
         "formation": {
@@ -150,7 +148,7 @@
             "notice": {
                 "id": "UK-Yeovil: Bathroom furniture",
                 "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8873928",
-                "publishedDate": "2013-01-16"
+                "publishedDate": "2013-01-16T00:00:00-0500"
             },
             "itemsToBeProcured": [{
                 "description": "Furniture, furnishings, domestic appliances and cleaning products",
@@ -162,17 +160,16 @@
                 "amount": 0,
                 "currency": "EUR"
             },
-            "selectionCriteria": "The most economic tender",
             "numberOfBids": 4
         },
         "awards": [{
             "awardID": "3121410",
             "notice": {
                 "id": "{title: UK-Yeovil: Bathroom furniture}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8873928",
-                "publishedDate": "2013-01-16"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=8873928",
+                "publishedDate": "2013-01-16T00:00:00-0500"
             },
-            "awardDate": "2013-12-02",
+            "awardDate": "2013-12-02T00:00:00-0500",
             "awardValue": {
                 "amount": 0,
                 "currency": "EUR"
@@ -180,7 +177,7 @@
             "suppliers": [{
                 "id": {
                     "name": "Ideal standard",
-                    "uri": "http://www.contractawards.eu/#!supplier=Ideal standard"
+                    "uri": "http://www.contractawards.eu/#!supplier=Ideal+standard"
                 },
                 "address": {}
             }],
@@ -194,17 +191,17 @@
     }, {
         "ocid": "11625-2013",
         "releaseID": "UK-Yeovil: Taps - 8873935",
-        "releaseDate": "2013-12-02",
+        "releaseDate": "2013-12-02T00:00:00-0500",
         "releaseTag": "awardNotice",
         "language": "en",
         "buyer": {
             "id": {
                 "name": "ADVANTAGE SOUTH WEST",
-                "uid": 6368419,
+                "uid": "6368419",
                 "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6368419"
             },
             "address": {
-                "countryName": "United Kingdom"
+                "country-name": "United Kingdom"
             }
         },
         "formation": {
@@ -212,7 +209,7 @@
             "notice": {
                 "id": "UK-Yeovil: Taps",
                 "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8873935",
-                "publishedDate": "2013-01-16"
+                "publishedDate": "2013-01-16T00:00:00-0500"
             },
             "itemsToBeProcured": [{
                 "description": "Construction structures and materials; auxiliary products to construction",
@@ -224,17 +221,16 @@
                 "amount": 0,
                 "currency": "EUR"
             },
-            "selectionCriteria": "The most economic tender",
             "numberOfBids": 4
         },
         "awards": [{
             "awardID": "3121422",
             "notice": {
                 "id": "{title: UK-Yeovil: Taps}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8873935",
-                "publishedDate": "2013-01-16"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=8873935",
+                "publishedDate": "2013-01-16T00:00:00-0500"
             },
-            "awardDate": "2013-12-02",
+            "awardDate": "2013-12-02T00:00:00-0500",
             "awardValue": {
                 "amount": 0,
                 "currency": "EUR"
@@ -242,7 +238,7 @@
             "suppliers": [{
                 "id": {
                     "name": "Eurobath international ltd t/a vado",
-                    "uri": "http://www.contractawards.eu/#!supplier=Eurobath international ltd t/a vado"
+                    "uri": "http://www.contractawards.eu/#!supplier=Eurobath+international+ltd+t%2Fa+vado"
                 },
                 "address": {}
             }],
@@ -256,17 +252,17 @@
     }, {
         "ocid": "13298-2013",
         "releaseID": "UK-Carlisle: Animal products, meat and meat products - 8876180",
-        "releaseDate": "2013-12-03",
+        "releaseDate": "2013-12-03T00:00:00-0500",
         "releaseTag": "awardNotice",
         "language": "en",
         "buyer": {
             "id": {
                 "name": "CUMBRIA COUNTY COUNCIL",
-                "uid": 6555164,
+                "uid": "6555164",
                 "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6555164"
             },
             "address": {
-                "countryName": "United Kingdom"
+                "country-name": "United Kingdom"
             }
         },
         "formation": {
@@ -274,7 +270,7 @@
             "notice": {
                 "id": "UK-Carlisle: Animal products, meat and meat products",
                 "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8876180",
-                "publishedDate": "2013-01-16"
+                "publishedDate": "2013-01-16T00:00:00-0500"
             },
             "itemsToBeProcured": [{
                 "description": "Agricultural, farming, fishing, forestry ",
@@ -286,17 +282,16 @@
                 "amount": 0,
                 "currency": "EUR"
             },
-            "selectionCriteria": "The most economic tender",
             "numberOfBids": 5
         },
         "awards": [{
             "awardID": "3123168",
             "notice": {
                 "id": "{title: UK-Carlisle: Animal products, meat and meat products}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8876180",
-                "publishedDate": "2013-01-16"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=8876180",
+                "publishedDate": "2013-01-16T00:00:00-0500"
             },
-            "awardDate": "2013-12-03",
+            "awardDate": "2013-12-03T00:00:00-0500",
             "awardValue": {
                 "amount": 0,
                 "currency": "EUR"
@@ -304,7 +299,7 @@
             "suppliers": [{
                 "id": {
                     "name": "Pfd (carlisle) ltd",
-                    "uri": "http://www.contractawards.eu/#!supplier=Pfd (carlisle) ltd"
+                    "uri": "http://www.contractawards.eu/#!supplier=Pfd+%28carlisle%29+ltd"
                 },
                 "address": {}
             }],
@@ -318,17 +313,17 @@
     }, {
         "ocid": "20676-2013",
         "releaseID": "D-Bonn: Research and development services and related consultancy services - 8899939",
-        "releaseDate": "2013-12-17",
+        "releaseDate": "2013-12-17T00:00:00-0500",
         "releaseTag": "awardNotice",
         "language": "en",
         "buyer": {
             "id": {
                 "name": "BUNDESMINISTERIUM FÜR WIRTSCHAFT UND TECHNOLOGIE (BMWI), REFERAT I C 4",
-                "uid": 6511043,
+                "uid": "6511043",
                 "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6511043"
             },
             "address": {
-                "countryName": "Germany"
+                "country-name": "Germany"
             }
         },
         "formation": {
@@ -336,7 +331,7 @@
             "notice": {
                 "id": "D-Bonn: Research and development services and related consultancy services",
                 "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8899939",
-                "publishedDate": "2013-01-22"
+                "publishedDate": "2013-01-22T00:00:00-0500"
             },
             "itemsToBeProcured": [{
                 "description": "Research and development services and related consultancy services",
@@ -348,17 +343,16 @@
                 "amount": 0,
                 "currency": "EUR"
             },
-            "selectionCriteria": "The most economic tender",
             "numberOfBids": 4
         },
         "awards": [{
             "awardID": "3127866",
             "notice": {
                 "id": "{title: D-Bonn: Research and development services and related consultancy services}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8899939",
-                "publishedDate": "2013-01-22"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=8899939",
+                "publishedDate": "2013-01-22T00:00:00-0500"
             },
-            "awardDate": "2013-12-17",
+            "awardDate": "2013-12-17T00:00:00-0500",
             "awardValue": {
                 "amount": 0,
                 "currency": "EUR"
@@ -366,7 +360,7 @@
             "suppliers": [{
                 "id": {
                     "name": "Rwth aachen university, institut für kraftfahrzeuge (ika)",
-                    "uri": "http://www.contractawards.eu/#!supplier=Rwth aachen university, institut für kraftfahrzeuge (ika)"
+                    "uri": "http://www.contractawards.eu/#!supplier=Rwth+aachen+university%2C+institut+f%C3%BCr+kraftfahrzeuge+%28ika%29"
                 },
                 "address": {}
             }],
@@ -380,17 +374,17 @@
     }, {
         "ocid": "22273-2013",
         "releaseID": "UK-Glasgow: Community action programme - 8906419",
-        "releaseDate": "2013-12-10",
+        "releaseDate": "2013-12-10T00:00:00-0500",
         "releaseTag": "awardNotice",
         "language": "en",
         "buyer": {
             "id": {
                 "name": "GLASGOW CITY COUNCIL",
-                "uid": 1322485,
+                "uid": "1322485",
                 "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=1322485"
             },
             "address": {
-                "countryName": "United Kingdom"
+                "country-name": "United Kingdom"
             }
         },
         "formation": {
@@ -398,7 +392,7 @@
             "notice": {
                 "id": "UK-Glasgow: Community action programme",
                 "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8906419",
-                "publishedDate": "2013-01-23"
+                "publishedDate": "2013-01-23T00:00:00-0500"
             },
             "itemsToBeProcured": [{
                 "description": "Health and social work services",
@@ -410,17 +404,16 @@
                 "amount": 685986,
                 "currency": "EUR"
             },
-            "selectionCriteria": "The most economic tender",
             "numberOfBids": 3
         },
         "awards": [{
             "awardID": "3129068",
             "notice": {
                 "id": "{title: UK-Glasgow: Community action programme}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8906419",
-                "publishedDate": "2013-01-23"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=8906419",
+                "publishedDate": "2013-01-23T00:00:00-0500"
             },
-            "awardDate": "2013-12-10",
+            "awardDate": "2013-12-10T00:00:00-0500",
             "awardValue": {
                 "amount": 685986,
                 "currency": "EUR"
@@ -428,7 +421,7 @@
             "suppliers": [{
                 "id": {
                     "name": "Ymca glasgow",
-                    "uri": "http://www.contractawards.eu/#!supplier=Ymca glasgow"
+                    "uri": "http://www.contractawards.eu/#!supplier=Ymca+glasgow"
                 },
                 "address": {}
             }],
@@ -442,17 +435,17 @@
     }, {
         "ocid": "35348-2013",
         "releaseID": "PL-Warsaw: Software maintenance and repair services - 8953564",
-        "releaseDate": "2013-12-28",
+        "releaseDate": "2013-12-28T00:00:00-0500",
         "releaseTag": "awardNotice",
         "language": "en",
         "buyer": {
             "id": {
                 "name": "POLSKIE GÓRNICTWO NAFTOWE I GAZOWNICTWO S.A.",
-                "uid": 1317800,
+                "uid": "1317800",
                 "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=1317800"
             },
             "address": {
-                "countryName": "Poland"
+                "country-name": "Poland"
             }
         },
         "formation": {
@@ -460,7 +453,7 @@
             "notice": {
                 "id": "PL-Warsaw: Software maintenance and repair services",
                 "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8953564",
-                "publishedDate": "2013-02-04"
+                "publishedDate": "2013-02-04T00:00:00-0500"
             },
             "itemsToBeProcured": [{
                 "description": "IT services: consulting, software development, Internet and support",
@@ -472,17 +465,16 @@
                 "amount": 0,
                 "currency": "EUR"
             },
-            "selectionCriteria": "Lowest price",
             "numberOfBids": 3
         },
         "awards": [{
             "awardID": "3136530",
             "notice": {
                 "id": "{title: PL-Warsaw: Software maintenance and repair services}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8953564",
-                "publishedDate": "2013-02-04"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=8953564",
+                "publishedDate": "2013-02-04T00:00:00-0500"
             },
-            "awardDate": "2013-12-28",
+            "awardDate": "2013-12-28T00:00:00-0500",
             "awardValue": {
                 "amount": 0,
                 "currency": "EUR"
@@ -490,10 +482,10 @@
             "suppliers": [{
                 "id": {
                     "name": "Proximus s.a.",
-                    "uri": "http://www.contractawards.eu/#!supplier=Proximus s.a."
+                    "uri": "http://www.contractawards.eu/#!supplier=Proximus+s.a."
                 },
                 "address": {
-                    "countryName": "Poland"
+                    "country-name": "Poland"
                 }
             }],
             "itemsAwarded": [{
@@ -506,17 +498,17 @@
     }, {
         "ocid": "36585-2013",
         "releaseID": "UK-Wakefield: Insurance services - 8956342",
-        "releaseDate": "2013-12-11",
+        "releaseDate": "2013-12-11T00:00:00-0500",
         "releaseTag": "awardNotice",
         "language": "en",
         "buyer": {
             "id": {
                 "name": "YPO",
-                "uid": 6762190,
+                "uid": "6762190",
                 "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6762190"
             },
             "address": {
-                "countryName": "United Kingdom"
+                "country-name": "United Kingdom"
             }
         },
         "formation": {
@@ -524,7 +516,7 @@
             "notice": {
                 "id": "UK-Wakefield: Insurance services",
                 "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8956342",
-                "publishedDate": "2013-02-04"
+                "publishedDate": "2013-02-04T00:00:00-0500"
             },
             "itemsToBeProcured": [{
                 "description": "Financial and insurance services",
@@ -536,17 +528,16 @@
                 "amount": 0,
                 "currency": "EUR"
             },
-            "selectionCriteria": "The most economic tender",
             "numberOfBids": 2
         },
         "awards": [{
             "awardID": "3136972",
             "notice": {
                 "id": "{title: UK-Wakefield: Insurance services}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8956342",
-                "publishedDate": "2013-02-04"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=8956342",
+                "publishedDate": "2013-02-04T00:00:00-0500"
             },
-            "awardDate": "2013-12-11",
+            "awardDate": "2013-12-11T00:00:00-0500",
             "awardValue": {
                 "amount": 0,
                 "currency": "EUR"
@@ -568,17 +559,17 @@
     }, {
         "ocid": "36709-2013",
         "releaseID": "UK-London: School cleaning services - 8956467",
-        "releaseDate": "2013-12-02",
+        "releaseDate": "2013-12-02T00:00:00-0500",
         "releaseTag": "awardNotice",
         "language": "en",
         "buyer": {
             "id": {
                 "name": "ST ANGELA'S URSULINE SCHOOL",
-                "uid": 6720786,
+                "uid": "6720786",
                 "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6720786"
             },
             "address": {
-                "countryName": "United Kingdom"
+                "country-name": "United Kingdom"
             }
         },
         "formation": {
@@ -586,7 +577,7 @@
             "notice": {
                 "id": "UK-London: School cleaning services",
                 "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8956467",
-                "publishedDate": "2013-02-04"
+                "publishedDate": "2013-02-04T00:00:00-0500"
             },
             "itemsToBeProcured": [{
                 "description": "Sewage, refuse, cleaning and environmental services",
@@ -598,17 +589,16 @@
                 "amount": 550399,
                 "currency": "EUR"
             },
-            "selectionCriteria": "The most economic tender",
             "numberOfBids": 4
         },
         "awards": [{
             "awardID": "3137170",
             "notice": {
                 "id": "{title: UK-London: School cleaning services}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId8956467",
-                "publishedDate": "2013-02-04"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=8956467",
+                "publishedDate": "2013-02-04T00:00:00-0500"
             },
-            "awardDate": "2013-12-02",
+            "awardDate": "2013-12-02T00:00:00-0500",
             "awardValue": {
                 "amount": 550399,
                 "currency": "EUR"
@@ -616,7 +606,7 @@
             "suppliers": [{
                 "id": {
                     "name": "Ridge crest",
-                    "uri": "http://www.contractawards.eu/#!supplier=Ridge crest"
+                    "uri": "http://www.contractawards.eu/#!supplier=Ridge+crest"
                 },
                 "address": {}
             }],
@@ -630,17 +620,17 @@
     }, {
         "ocid": "67962-2013",
         "releaseID": "FI-Espoo: Geological, geophysical and other scientific prospecting\nservices - 9088507",
-        "releaseDate": "2013-12-13",
+        "releaseDate": "2013-12-13T00:00:00-0500",
         "releaseTag": "awardNotice",
         "language": "en",
         "buyer": {
             "id": {
                 "name": "GEOLOGIAN TUTKIMUSKESKUS (1711392-5)",
-                "uid": 6769246,
+                "uid": "6769246",
                 "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6769246"
             },
             "address": {
-                "countryName": "Finland"
+                "country-name": "Finland"
             }
         },
         "formation": {
@@ -648,7 +638,7 @@
             "notice": {
                 "id": "FI-Espoo: Geological, geophysical and other scientific prospecting\nservices",
                 "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9088507",
-                "publishedDate": "2013-03-05"
+                "publishedDate": "2013-03-05T00:00:00-0500"
             },
             "itemsToBeProcured": [{
                 "description": "Architectural, construction, engineering and inspection services",
@@ -660,17 +650,16 @@
                 "amount": 600000,
                 "currency": "EUR"
             },
-            "selectionCriteria": "The most economic tender",
             "numberOfBids": 4
         },
         "awards": [{
             "awardID": "3155105",
             "notice": {
                 "id": "{title: FI-Espoo: Geological, geophysical and other scientific prospecting\nservices}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9088507",
-                "publishedDate": "2013-03-05"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=9088507",
+                "publishedDate": "2013-03-05T00:00:00-0500"
             },
-            "awardDate": "2013-12-13",
+            "awardDate": "2013-12-13T00:00:00-0500",
             "awardValue": {
                 "amount": 600000,
                 "currency": "EUR"
@@ -678,7 +667,7 @@
             "suppliers": [{
                 "id": {
                     "name": "Suomen malmi o",
-                    "uri": "http://www.contractawards.eu/#!supplier=Suomen malmi o"
+                    "uri": "http://www.contractawards.eu/#!supplier=Suomen+malmi+o"
                 },
                 "address": {}
             }],
@@ -692,17 +681,17 @@
     }, {
         "ocid": "69871-2013",
         "releaseID": "E-Montgat: Ornamental and pleasure gardens maintenance services - 9089307",
-        "releaseDate": "2013-12-13",
+        "releaseDate": "2013-12-13T00:00:00-0500",
         "releaseTag": "awardNotice",
         "language": "en",
         "buyer": {
             "id": {
                 "name": "AJUNTAMENT DE MONTGAT (P0812500G)",
-                "uid": 6734775,
+                "uid": "6734775",
                 "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6734775"
             },
             "address": {
-                "countryName": "Spain"
+                "country-name": "Spain"
             }
         },
         "formation": {
@@ -710,7 +699,7 @@
             "notice": {
                 "id": "E-Montgat: Ornamental and pleasure gardens maintenance services",
                 "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9089307",
-                "publishedDate": "2013-03-05"
+                "publishedDate": "2013-03-05T00:00:00-0500"
             },
             "itemsToBeProcured": [{
                 "description": "Agricultural, forestry, horticultural, aquacultural and apicultural services",
@@ -722,17 +711,16 @@
                 "amount": 708979,
                 "currency": "EUR"
             },
-            "selectionCriteria": "The most economic tender",
             "numberOfBids": 1
         },
         "awards": [{
             "awardID": "3156855",
             "notice": {
                 "id": "{title: E-Montgat: Ornamental and pleasure gardens maintenance services}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9089307",
-                "publishedDate": "2013-03-05"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=9089307",
+                "publishedDate": "2013-03-05T00:00:00-0500"
             },
-            "awardDate": "2013-12-13",
+            "awardDate": "2013-12-13T00:00:00-0500",
             "awardValue": {
                 "amount": 708979,
                 "currency": "EUR"
@@ -754,17 +742,17 @@
     }, {
         "ocid": "82757-2013",
         "releaseID": "I-Brescia: Laboratory reagents - 9134780",
-        "releaseDate": "2013-12-31",
+        "releaseDate": "2013-12-31T00:00:00-0500",
         "releaseTag": "awardNotice",
         "language": "en",
         "buyer": {
             "id": {
                 "name": "AZIENDA OSPEDALIERA SPEDALI CIVILI DI BRESCIA",
-                "uid": 1340690,
+                "uid": "1340690",
                 "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=1340690"
             },
             "address": {
-                "countryName": "Italy"
+                "country-name": "Italy"
             }
         },
         "formation": {
@@ -772,7 +760,7 @@
             "notice": {
                 "id": "I-Brescia: Laboratory reagents",
                 "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9134780",
-                "publishedDate": "2013-03-13"
+                "publishedDate": "2013-03-13T00:00:00-0400"
             },
             "itemsToBeProcured": [{
                 "description": "Medical equipment, pharmaceuticals and personal care products",
@@ -784,17 +772,16 @@
                 "amount": 31104,
                 "currency": "EUR"
             },
-            "selectionCriteria": "The most economic tender",
             "numberOfBids": 0
         },
         "awards": [{
             "awardID": "3162579",
             "notice": {
                 "id": "{title: I-Brescia: Laboratory reagents}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9134780",
-                "publishedDate": "2013-03-13"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=9134780",
+                "publishedDate": "2013-03-13T00:00:00-0400"
             },
-            "awardDate": "2013-12-31",
+            "awardDate": "2013-12-31T00:00:00-0500",
             "awardValue": {
                 "amount": 31104,
                 "currency": "EUR"
@@ -816,10 +803,10 @@
             "awardID": "3162608",
             "notice": {
                 "id": "{title: I-Brescia: Laboratory reagents}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9134780",
-                "publishedDate": "2013-03-13"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=9134780",
+                "publishedDate": "2013-03-13T00:00:00-0400"
             },
-            "awardDate": "2013-12-31",
+            "awardDate": "2013-12-31T00:00:00-0500",
             "awardValue": {
                 "amount": 68446,
                 "currency": "EUR"
@@ -841,17 +828,17 @@
     }, {
         "ocid": "109705-2013",
         "releaseID": "D-Aachen: Structural steelworks - 9229540",
-        "releaseDate": "2013-12-27",
+        "releaseDate": "2013-12-27T00:00:00-0500",
         "releaseTag": "awardNotice",
         "language": "en",
         "buyer": {
             "id": {
                 "name": "HANDWERKSKAMMER AACHEN",
-                "uid": 6452190,
+                "uid": "6452190",
                 "uri": "http://www.dgmarket.com/tenders/adminShowBuyer.do?buyerId=6452190"
             },
             "address": {
-                "countryName": "Germany"
+                "country-name": "Germany"
             }
         },
         "formation": {
@@ -859,7 +846,7 @@
             "notice": {
                 "id": "D-Aachen: Structural steelworks",
                 "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9229540",
-                "publishedDate": "2013-04-04"
+                "publishedDate": "2013-04-04T00:00:00-0400"
             },
             "itemsToBeProcured": [{
                 "description": "Construction work",
@@ -871,17 +858,16 @@
                 "amount": 0,
                 "currency": "EUR"
             },
-            "selectionCriteria": "Lowest price",
             "numberOfBids": 11
         },
         "awards": [{
             "awardID": "3174470",
             "notice": {
                 "id": "{title: D-Aachen: Structural steelworks}",
-                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId9229540",
-                "publishedDate": "2013-04-04"
+                "uri": "http://www.dgmarket.com/tenders/np-notice.do?noticeId=9229540",
+                "publishedDate": "2013-04-04T00:00:00-0400"
             },
-            "awardDate": "2013-12-27",
+            "awardDate": "2013-12-27T00:00:00-0500",
             "awardValue": {
                 "amount": 0,
                 "currency": "EUR"
@@ -889,7 +875,7 @@
             "suppliers": [{
                 "id": {
                     "name": "A.i.s. gmbh",
-                    "uri": "http://www.contractawards.eu/#!supplier=A.i.s. gmbh"
+                    "uri": "http://www.contractawards.eu/#!supplier=A.i.s.+gmbh"
                 },
                 "address": {}
             }],
